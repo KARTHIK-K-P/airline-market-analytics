@@ -2,8 +2,6 @@
 
 A real-time, interactive airline market analytics dashboard built with **Streamlit**. It helps users analyze demand trends, pricing patterns, and popular routes using data visualizations and AI-generated insights from **Gemini AI**.
 
----
-
 ## 📊 Features
 
 ### 🔍 Advanced Filtering System
@@ -62,5 +60,5 @@ A real-time, interactive airline market analytics dashboard built with **Streaml
 
 1. **Clone this repo**
 ```bash
-git clone https://github.com/kKARTHIK-K-P/airline-market-analytics.git
+git clone https://github.com/KARTHIK-K-P/airline-market-analytics.git
 cd airline-market-analytics
